@@ -1,5 +1,5 @@
 # Autorzy
-Dawid Krasik, Seweryn Stępień, Michał Tylewskim, Gabor Plis
+Dawid Krasik, Seweryn Stępień, Michał Tylewski, Gabor Plis
 # Projekt_Grupowy
 Projekt grupowy - Testy manualne oraz automatyczne dla strony skelpu + Raport
 
