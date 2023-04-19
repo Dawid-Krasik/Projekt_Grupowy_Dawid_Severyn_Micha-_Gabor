@@ -12,5 +12,4 @@ Projekt grupowy - Testy manualne oraz automatyczne dla strony skelpu + Raport
 - Selenium IDE
 - Agile (Scrum)
 - Camban Board
-- PowerBI
 
